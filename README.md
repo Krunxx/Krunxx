@@ -1,7 +1,5 @@
 <div style="text-align:center">
-  <p>![21e2e73eb9a9984e3b407328f65f5e5b](https://user-images.githubusercontent.com/82696971/218396735-088d988a-5b8a-498c-90e1-8ee4136c885f.gif)
-
-</p>
+  ![21e2e73eb9a9984e3b407328f65f5e5b](https://user-images.githubusercontent.com/82696971/218396735-088d988a-5b8a-498c-90e1-8ee4136c885f.gif)
 </div>
 
 
