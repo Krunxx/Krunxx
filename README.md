@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning reactJS
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for a mentor and workshops
-- ⚡ Fun fact: I have a mixed introvert and extrovert personality 🤠
+- ⚡ Fun fact: I am an Ambivert🤠
 -->
