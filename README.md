@@ -1,5 +1,4 @@
 <H1> 😱 Whoa, I just learned to create my own portfolio, Check this out https://cadalo-github-io.vercel.app </H1> 
-<H1>👋 Hi I'm Karen Cadalo, a.k.a Krunxx 👾<H1>
 <H3> A passionate front end developer in your area <h3>
 
 
