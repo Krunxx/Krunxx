@@ -1,4 +1,4 @@
-<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://user-images.githubusercontent.com/82696971/218398573-8edcae5a-8a28-4bbc-bd33-ec89a6d1b348.gif">
+<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://user-images.githubusercontent.com/82696971/218398690-641ccc4c-75da-4801-a57a-870c04d49142.gif">
 
    
 <H1 align = "center"> 😱 Whooa, I finally learned to create my web portfolio <br> https://cadalo-github-io.vercel.app </H1> 
