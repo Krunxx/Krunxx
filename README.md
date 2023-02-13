@@ -1,4 +1,4 @@
-  ![maxresdefault](https://user-images.githubusercontent.com/82696971/218388005-79917bff-6237-4de0-a49b-139b2070bbd1.jpg)
+ ![image](https://user-images.githubusercontent.com/82696971/218395774-32149560-1297-48fc-9280-3d4cd40d241e.png)
 <H1 align = "center"> 😱 Whooa, finally I learned to create my web portfolio <br> https://cadalo-github-io.vercel.app </H1> 
 <H3 align = "center">  😉 Aspiring front end developer in your area <h3>
 
