@@ -1,4 +1,8 @@
-![21e2e73eb9a9984e3b407328f65f5e5b](https://user-images.githubusercontent.com/82696971/218396566-3df46ca3-5df8-4d18-ae34-80c66f7ea3d1.gif)
+<div style="text-align:center">
+  <p>![21e2e73eb9a9984e3b407328f65f5e5b](https://user-images.githubusercontent.com/82696971/218396735-088d988a-5b8a-498c-90e1-8ee4136c885f.gif)
+
+</p>
+</div>
 
 
 <H1 align = "center"> 😱 Whooa, finally I learned to create my web portfolio <br> https://cadalo-github-io.vercel.app </H1> 
