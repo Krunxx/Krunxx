@@ -2,7 +2,7 @@
 <H3> A passionate front end developer in your area <h3>
 <H3> 😱 Whoa, I just learned to create my own portfolio, Check this out https://cadalo-github-io.vercel.app </H3> 
 
-- 🔭 I’m currently working on my feelings toward someone
+- 🔭 I’m currently moving on my feelings toward someone
 - 🌱 I’m currently learning reactJS
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for a mentor feedback
