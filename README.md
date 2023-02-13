@@ -1,4 +1,4 @@
-{text-align: center} ![waneella-pixel-art](https://user-images.githubusercontent.com/82696971/218395933-85e42383-3f1e-43da-98a3-8471eca0d72e.gif)
+![waneella-pixel-art](https://user-images.githubusercontent.com/82696971/218395933-85e42383-3f1e-43da-98a3-8471eca0d72e.gif){text-align: center} 
 
 <H1 align = "center"> 😱 Whooa, finally I learned to create my web portfolio <br> https://cadalo-github-io.vercel.app </H1> 
 <H3 align = "center">  😉 Aspiring front end developer in your area <h3>
