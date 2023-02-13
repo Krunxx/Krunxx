@@ -4,6 +4,6 @@
 - 🔭 I’m currently moving on my feelings toward someone
 - 🌱 I’m currently learning reactJS
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for a mentor feedback
+- 🤔 I’m looking for a mentor and workshops
 - ⚡ Fun fact: I have a mixed introvert and extrovert personality 🤠
 -->
