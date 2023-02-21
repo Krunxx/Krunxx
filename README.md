@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my portfolio
 - ⚡ Fun fact: I am an Ambivert and I love learning and sleeping 🤠
-- 🌱 I’m currently learning *reactJS
+- 🌱 I’m currently learning *1. Javascript 2.reactJS
 - 👯 I’m looking to collaborate on ___
 - 🤔 I’m looking for a mentor and workshops
 
