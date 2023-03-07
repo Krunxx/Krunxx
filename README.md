@@ -1,5 +1,4 @@
-<img align = "center" alt="pink-theory" width = "1000" height = "365" src = "![image](https://user-images.githubusercontent.com/82696971/223296109-7b0b45a3-0db5-470c-87ea-bb130815752e.png)
-">
+<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://user-images.githubusercontent.com/82696971/218398690-641ccc4c-75da-4801-a57a-870c04d49142.gif">
 
 <H1 align = "center"> 😱 https://cadalo-github-io.vercel.app </H1> 
 <H2 align = "center">  😉 Aspiring front end developer in your area <h2>
