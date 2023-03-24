@@ -3,9 +3,9 @@
 <H1 align = "center"> 😱 https://cadalo-github-io.vercel.app </H1> 
 <H2 align = "center">  😉 Aspiring front end developer in your area <h2>
 
-- 🔭 I’m currently working on my portfolio
-- ⚡ Fun fact: I am an Ambivert and I love learning and sleeping 🤠
-- 🌱 I’m currently learning *1. Javascript 
+- 🔭 I’m currently working on my Web Calculator using TailwindCSS
+- ⚡ Fun fact: I am a Social Introvert and I love learning at the same time resting a lil bit 🤠
+- 🌱 I’m currently learning *1. Javascript  *2. TailwinCSS
 - 👯 I’m looking to collaborate on ___
 - 🤔 I’m looking for a mentor and workshops
 
