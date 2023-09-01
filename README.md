@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my Web Calculator using TailwindCSS
 - ⚡ Fun fact: I am a Social Introvert and I love learning at the same time resting a lil bit 🤠
-- 🌱 I’m currently learning *
+- 🌱 I’m currently learning ___
 - 👯 I’m looking to collaborate on ___
 - 🤔 I’m looking for a mentor and workshops
 
