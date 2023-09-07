@@ -4,7 +4,7 @@
 <H2 align = "center">  😉 Aspiring front end developer in your area <h2>
 
 - 🔭 I’m currently working on my Web Calculator using TailwindCSS
-- ⚡ Fun fact: I am a Social Introvert and I love learning at the same time resting a lil bit 🤠
+- ⚡ Fun fact: I am a Social Introvert and I love learning at the same time doing my hobby in watercolor painting🤠
 - 🌱 I’m currently learning ___
 - 👯 I’m looking to collaborate on ___
 - 🤔 I’m looking for a mentor and workshops
