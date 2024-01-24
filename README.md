@@ -1,4 +1,5 @@
-<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://user-images.githubusercontent.com/82696971/227469858-cdfd6037-45a4-4138-996d-b9d6f5ade123.gif">
+<img align = "center" alt="pink-theory" width = "1000" height = "360" src = "https://github.com/Krunxx/Krunxx/assets/82696971/23d53d6c-e8e4-46fb-bf97-744ffd742f24">
+">
 
 
 
